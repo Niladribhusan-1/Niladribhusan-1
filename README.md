@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🚀 Tech enthusiast & problem solver. <br>Exploring software development <br>open source<br> 🚀 Web Dev | Backend | DevOps | Web3 | GenAI | ML
+🚀 Tech enthusiast & problem solver. <br>Exploring software development and open source<br> 🚀 Web Dev | Backend | DevOps | Web3 | GenAI | ML
 <br>🧠 DSA in C++ | Always building & learning
 
 
